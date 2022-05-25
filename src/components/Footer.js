@@ -15,17 +15,17 @@ const Footer = props => {
       <div style={{ textAlign: "center" }}>
         <Divider sx={{ m: "16px 0" }} />
         <Typography component="span" variant="h6">
-          Fox and Geese
+          Agnostique TI inc.
         </Typography>
         <br />
         <Typography component="span" variant="caption">
-          Programmed in Portland, Oregon – ©{new Date().getFullYear()} {company}{" "}
+          Conçue, élevé et formé au Canada ;) – ©{new Date().getFullYear()} {company}{" "}
           – <a href="https://policies.foxandgeese.com">Corporate Policies</a> –{" "}
           {email}
         </Typography>
         <br />
         <a
-          href="https://github.com/foxandgeese/tiny-agency"
+          href="https://github.com/axsion/gatsby"
           rel="noopener noreferrer"
           target="_blank"
         >
