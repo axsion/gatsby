@@ -42,24 +42,15 @@ const Home = props => {
               Our origin story is web change detection.
             </Typography>
             <Typography paragraph variant="subtitle1">
-              For years, we've provided web change intelligence for the world's
-              biggest organizations. Our products include{" "}
-              <a target="_blank" href="https://versionista.com">
-                Versionista
+              Depuis des années nous nous sommes formés et avons travaillés pour les plus grandes firmes infonuagiques (Cloud) au monde.
+              . Nos compétences incluent une expertise parmi{" "}
+              <a target="_blank" href="https://azure.microsoft.com/">
+                Microsoft - Azure
               </a>
-              , for competitive and regulatory intelligence;{" "}
-              <a target="_blank" href="https://fluxguard.com">
-                Fluxguard
+              <a target="_blank" href="https://aws.amazon.com/">
+                Amazon - AWS
               </a>
-              , for content safety;{" "}
-              <a target="_blank" href="https://deepdiveduck.com">
-                Deep Dive Duck
-              </a>
-              , for competitive intelligence; and{" "}
-              <a target="_blank" href="https://needlex3.com">
-                Needle X3
-              </a>
-              , for broad phrase monitoring.
+              , tant pour la formation que pour les technologies d'infrastructure en tant que code (IaC).
             </Typography>
             <Typography paragraph variant="subtitle1">
               But there's a bigger theme in our story: text intelligence.
