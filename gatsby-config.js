@@ -8,7 +8,7 @@ module.exports = {
     defaultDescription:
       "Agnostique TI / Nous offrons des formations sur les Cloud Azure et Cloud AWS et aidons les compagnies avec l'infrastructure en tant que code (IaC)",
     contact: {
-      email: "agnostique@gmail.com",
+      email: "agnostique.ti@gmail.com",
     },
     menuLinks: [],
   },
