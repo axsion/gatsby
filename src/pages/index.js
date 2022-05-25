@@ -25,35 +25,30 @@ const Home = props => {
       </SEO>
       <div style={{ textAlign: "center" }}>
         <Typography paragraph variant="h1">
-          Change.
+          Agnostique TI inc.
         </Typography>
         <Typography paragraph variant="h2">
-          It’s at the Heart of Every Story.
+          Au coeur des solutions Infonuagiques.
         </Typography>
         <Grid container justifyContent="center" spacing={2}>
           <Grid item md={8} sx={{ textAlign: "left" }} xs={12}>
             <Divider sx={{ m: "16px 0" }} />
             <Typography paragraph variant="subtitle1">
-              But instead of fairy tales, today's stories are told through
-              surveys, regulatory documents, social media, and web data. It's no
-              surprise that you might lose the plot as these vast sources shift
-              and change.
+              Agnostiques TI est une firme Canadienne fondé par un expert Cloud (AWS et Azure) Ex-AWS et Architecte de Solutions sénior Azure.
+              Nous offrons des services de formation a la carte adaptés aux besoins des compagnies et individus avec les 
+              technologies infonuagiques (Cloud) d'Amazon AWS et de Microsoft Azure.
             </Typography>
             <Typography paragraph variant="subtitle1">
-              Our products illuminate the stories that are important to our
-              customers. We use machine learning, artificial intelligence, and
-              change detection to find the trail of breadcrumbs through the
-              forest. We distill complex text into crisp summaries.
+              Nous nous positionnons afin d'offrir des services d'accompagnement aux firmes qui désirent changer leurs facons de faire
+              et instaurer une méthode d'infrastructure en tant que code (Infranstructure as code (IaC)) dans leurs pratiques DevOps et DevSecOps).
             </Typography>
             <Typography paragraph variant="subtitle1">
-              We help the US military and the biggest companies in the world
-              understand the stories in their data... from their customers, from
-              competitors, regulators, partners, and staff.
+              Nous aidons les plus grandes compagnies, comme les plus petites a faire le saut et évoluer
+              dans leurs pratiques et migrations vers les technologies infonuagiques (Cloud).
             </Typography>
             <Typography paragraph variant="subtitle1">
-              We're Fox and Geese, an Oregon-based team of data scientists,
-              software engineers, and – yes – storytellers. Can we help tell
-              your data story?
+              Nous sommes Agnostique TI, une firme concue pour répondre aux besoins d'adaptation des technologies vers
+              le monde, en constante évolution, de l'infonuagique.
             </Typography>
             <Divider sx={{ m: "16px 0" }} />
           </Grid>

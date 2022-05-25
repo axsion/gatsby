@@ -1,12 +1,12 @@
 module.exports = {
   // Customize me!
   siteMetadata: {
-    company: "Fox and Geese",
+    company: "Agnostique TI",
     domain: "https://witty-hill-062e68a0f.1.azurestaticapps.net",
     defaultTitle:
-      "Data Intelligence Solutions / We're AI Engineers in Portland",
+      "Agnostique TI / Des solutions infonuagiques Agnostiques - Formation et Infrastructure en tant que code (IaC)",
     defaultDescription:
-      "We develop practical AI and data intelligence products for commercial, military, and government customers.",
+      "Agnostique TI / Nous offrons des formations sur les Cloud Azure et Cloud AWS et aidons les compagnies avec l'infrastructure en tant que code (IaC)",
     contact: {
       email: "hello@foxandgeese.com",
     },
