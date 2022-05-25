@@ -1,7 +1,7 @@
 ---
 title: "Amazon - AWS"
 siteLink: "https://aws.amazon.com/"
-imageLink: "./images/aws.png"
+imageLink: "../../images/aws.png"
 customWidth: "80%"
 customTopPadding: "60px"
 ---
