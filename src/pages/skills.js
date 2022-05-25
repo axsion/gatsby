@@ -17,7 +17,7 @@ const Home = props => {
       },
     },
   } = props;
-  const title = "We Monitor Web Changes";
+  const title = "Partenaire de vos besoins cloud AWS & Azure";
   return (
     <Page tabs={<Tabs active={1} />}>
       <SEO title={title}>
