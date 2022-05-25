@@ -25,7 +25,7 @@ const Home = props => {
       </SEO>
       <div style={{ textAlign: "center" }}>
         <Typography paragraph variant="h1">
-          Agnostique TI inc.
+          Agnostique TI
         </Typography>
         <Typography paragraph variant="h2">
           Au coeur des solutions Infonuagiques
