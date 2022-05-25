@@ -1,5 +1,5 @@
 ---
-title: "Product Management"
+title: "Formation - AWS"
 imageLink: "https://d3lubguj0jcn6d.cloudfront.net/what_is_a_product_manager-570x320_sm.png"
 ---
 

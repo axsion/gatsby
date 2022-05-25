@@ -1,5 +1,5 @@
 ---
-title: "Engineering"
+title: "Accompagnement IaC"
 imageLink: "https://d3lubguj0jcn6d.cloudfront.net/engineering_sm.png"
 ---
 
