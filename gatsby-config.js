@@ -2,7 +2,7 @@ module.exports = {
   // Customize me!
   siteMetadata: {
     company: "Fox and Geese",
-    domain: "https://foxandgeese.com",
+    domain: "https://witty-hill-062e68a0f.1.azurestaticapps.net",
     defaultTitle:
       "Data Intelligence Solutions / We're AI Engineers in Portland",
     defaultDescription:
