@@ -10,18 +10,18 @@ const Component = ({ active, body }) => {
   const items = [
     {
       icon: <Robot />,
-      text: "Our Products",
+      text: "Nos Services",
       link: "/",
     },
     {
       icon: <Alien />,
       link: "/skills/",
-      text: "Our Skills",
+      text: "Nos compétences",
     },
     {
       icon: <ChessQueen />,
       link: "/principles-and-tactics/",
-      text: "Our Principles & Tactics",
+      text: "Principes et stratégies",
     },
   ];
 
