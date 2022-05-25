@@ -28,7 +28,7 @@ const Home = props => {
           Agnostique TI
         </Typography>
         <Typography paragraph variant="h2">
-          Au coeur des solutions Infonuagiques
+          Au coeur de vos solutions Infonuagiques
         </Typography>
         <Grid container justifyContent="center" spacing={2}>
           <Grid item md={8} sx={{ textAlign: "left" }} xs={12}>
