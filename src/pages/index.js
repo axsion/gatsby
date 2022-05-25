@@ -40,7 +40,7 @@ const Home = props => {
             </Typography>
             <Typography paragraph variant="subtitle1">
               Nous nous positionnons afin d'offrir des services d'accompagnement aux firmes qui désirent changer leurs facons de faire
-              et instaurer une méthode d'infrastructure en tant que code (Infranstructure as code - IaC) dans leurs pratiques DevOps et DevSecOps).
+              et instaurer une méthode d'infrastructure en tant que code (Infranstructure as code - IaC) dans leurs pratiques DevOps et DevSecOps.
             </Typography>
             <Typography paragraph variant="subtitle1">
               Nous aidons les plus grandes compagnies, comme les plus petites a faire le saut et évoluer
