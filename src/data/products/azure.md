@@ -1,7 +1,7 @@
 ---
 title: "Microsoft - Azure"
 siteLink: https://azure.microsoft.com/"
-imageLink: "https://d3lubguj0jcn6d.cloudfront.net/ddd-logo-dark.svg"
+imageLink: "images/azure.svg"
 customWidth: "80%"
 customTopPadding: "30px"
 ---
