@@ -24,6 +24,10 @@ const Footer = props => {
           {email}
         </Typography>
         <br />
+        <Typography component="span" variant="caption">
+          Ce site a été conçu par le <a href="https://www.gatsbyjs.com/">framework Gatsby</a> et utilise le <a href="https://github.com/foxandgeese/tiny-agency">theme Tiny-Agency de Fox and Geese</a>
+        </Typography>
+        <br />
         <a
           href="https://github.com/axsion/gatsby"
           rel="noopener noreferrer"
