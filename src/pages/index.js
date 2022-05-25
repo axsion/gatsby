@@ -54,7 +54,7 @@ const Home = props => {
           </Grid>
         </Grid>
       </div>
-      <List items={products} md={2} />
+      <List items={products} md={6} />
     </Page>
   );
 };
