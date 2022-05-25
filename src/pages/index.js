@@ -34,20 +34,20 @@ const Home = props => {
           <Grid item md={8} sx={{ textAlign: "left" }} xs={12}>
             <Divider sx={{ m: "16px 0" }} />
             <Typography paragraph variant="subtitle1">
-              Agnostiques TI est une firme Canadienne fondé par un expert Cloud (AWS et Azure) Ex-AWS et Architecte de Solutions sénior Azure.
-              Nous offrons des services de formation a la carte adaptés aux besoins des compagnies et individus avec les 
-              technologies infonuagiques (Cloud) d'Amazon AWS et de Microsoft Azure.
+              Agnostiques TI est une firme Canadienne fondé par un <a href="https://www.linkedin.com/in/fredericbergeron/">expert Cloud (AWS et Azure) Ex-AWS et Architecte de Solutions sénior Azure chez Microsoft</a>.
+              Nous offrons des services de formation à la carte adaptés aux besoins des compagnies et individus avec les 
+              technologies infonuagiques (Cloud) d'Amazon (AWS) et de Microsoft (Azure).
             </Typography>
             <Typography paragraph variant="subtitle1">
               Nous nous positionnons afin d'offrir des services d'accompagnement aux firmes qui désirent changer leurs facons de faire
-              et instaurer une méthode d'infrastructure en tant que code (Infranstructure as code (IaC)) dans leurs pratiques DevOps et DevSecOps).
+              et instaurer une méthode d'infrastructure en tant que code (Infranstructure as code - IaC) dans leurs pratiques DevOps et DevSecOps).
             </Typography>
             <Typography paragraph variant="subtitle1">
               Nous aidons les plus grandes compagnies, comme les plus petites a faire le saut et évoluer
               dans leurs pratiques et migrations vers les technologies infonuagiques (Cloud).
             </Typography>
             <Typography paragraph variant="subtitle1">
-              Nous sommes Agnostique TI, une firme concue pour répondre aux besoins d'adaptation des technologies vers
+              Nous sommes Agnostique TI, une firme concue pour répondre aux besoins des compagnies d'adaptation des technologies vers
               le monde, en constante évolution, de l'infonuagique.
             </Typography>
             <Divider sx={{ m: "16px 0" }} />
