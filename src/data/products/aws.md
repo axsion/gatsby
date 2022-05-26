@@ -1,7 +1,7 @@
 ---
 title: "Amazon - AWS"
 siteLink: "https://aws.amazon.com/"
-imageLink: "./aws.png"
+imageLink: "https://gatsbyimages.blob.core.windows.net/images/aws.png"
 customWidth: "80%"
 customTopPadding: "60px"
 ---

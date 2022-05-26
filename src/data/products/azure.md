@@ -1,7 +1,7 @@
 ---
 title: "Microsoft - Azure"
 siteLink: https://azure.microsoft.com/"
-imageLink: "azure.png"
+imageLink: "https://gatsbyimages.blob.core.windows.net/images/azure.png"
 customWidth: "80%"
 customTopPadding: "30px"
 ---
